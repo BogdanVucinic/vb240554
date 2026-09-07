@@ -1,0 +1,11 @@
+{
+  "airports": [
+    {"code":"LHR","name":"London Heathrow","x":0.0,"y":51.0},
+    {"code":"JFK","name":"John F Kennedy International","x":-37.0,"y":41.0},
+    {"code":"BEG","name":"Belgrade Nikola Tesla","x":10.0,"y":45.0}
+  ],
+  "flights": [
+    {"from":"LHR","to":"JFK","departure":"08:30","duration":420},
+    {"from":"BEG","to":"LHR","departure":"17:10","duration":170}
+  ]
+}
